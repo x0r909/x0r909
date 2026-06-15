@@ -9,7 +9,7 @@
 Cybersecurity Engineering student with a strong interest in secure software development, enterprise networking, server infrastructure, and applied artificial intelligence. I enjoy building practical solutions that combine security, scalability, and modern technologies while continuously exploring new advancements in cybersecurity, networking, and machine learning.
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&width=420&lines=Cybersecurity+Engineering;Network+Engineering;AI%2FML" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&width=420&lines=Cybersecurity+Engineering;Network+Engineering;AI%2FML+Enthusiast" />
 </p>
 
 <p>
