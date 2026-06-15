@@ -2,14 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Cybersecurity+Engineering+Student;Ethical+Hacker+%7;AI+ML+Enthusiast;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Cybersecurity+Engineering+Student;Ethical+Hacker;AI+ML+Enthusiast;Always+Learning+%F0%9F%9A%80" />
 
 </div>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd6eDFmZmQwY3RjdnNqNWlwcjN3ZXllNnVudmVldGF6YjM1a2kzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="650"/>
-
+<div class="tenor-gif-embed" data-postid="13216598193345183497" data-share-method="host" data-aspect-ratio="1.32778" data-width="100%"><a href="https://tenor.com/view/frieren-sousou-no-frieren-gif-13216598193345183497">Frieren Sousou No Frieren Sticker</a>from <a href="https://tenor.com/search/frieren-stickers">Frieren Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ---
