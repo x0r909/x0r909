@@ -10,6 +10,7 @@
 
 <img src="https://media.tenor.com/YOUR_GIF_ID_HERE/tenor.gif" alt="Frieren GIF" width="100%" />
 
+</div>
 ---
 
 # 🚀 About Me
