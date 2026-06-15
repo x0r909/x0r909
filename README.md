@@ -8,8 +8,7 @@
 
 <div align="center">
 
-<div class="tenor-gif-embed" data-postid="13216598193345183497" data-share-method="host" data-aspect-ratio="1.32778" data-width="100%"><a href="https://tenor.com/view/frieren-sousou-no-frieren-gif-13216598193345183497">Frieren Sousou No Frieren Sticker</a>from <a href="https://tenor.com/search/frieren-stickers">Frieren Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+<img src="https://media.tenor.com/YOUR_GIF_ID_HERE/tenor.gif" alt="Frieren GIF" width="100%" />
 
 ---
 
