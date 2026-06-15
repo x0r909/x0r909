@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Cybersecurity+Engineering+Student;Ethical+Hacker+%7C+Full+Stack+Developer;Android+Developer+%7C+AI+Enthusiast;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Cybersecurity+Engineering+Student;Ethical+Hacker+%7;AI+ML+Enthusiast;Always+Learning+%F0%9F%9A%80" />
 
 </div>
 
@@ -150,7 +150,6 @@
 
 </div>
 
-> **Note:** Aktifkan workflow GitHub Actions untuk menghasilkan file `output/github-contribution-grid-snake-dark.svg`.
 
 ---
 
