@@ -7,10 +7,13 @@
 </div>
 
 <div align="center">
-
-<img src="https://media.tenor.com/YOUR_GIF_ID_HERE/tenor.gif" alt="Frieren GIF" width="100%" />
-
+  <img
+    src="https://media.tenor.com/t2rKCEVovwkAAAAi/frieren-sousou-no-frieren.gif"
+    alt="Frieren"
+    width="220"
+  />
 </div>
+
 ---
 
 # 🚀 About Me
