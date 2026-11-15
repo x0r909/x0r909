@@ -1,104 +1,64 @@
-<table>
-<tr>
-<td width="70%" valign="top">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=x0r909&fontSize=64&fontColor=e6edf3&fontAlignY=38&desc=Offensive%20security%20%C2%B7%20Systems%20engineering%20%C2%B7%20Network&descAlignY=62&descSize=16" alt="x0r909" />
+</p>
 
-# Hi, I'm **Augie Aristito Sudiarto**
+```text
+augie@x0r909:~$ whoami
+Cybersecurity Engineering student — Indonesia
+Builds: secure systems, network infrastructure, AI/ML tooling
+Current: openforensic-imager, atlas
+```
 
-### 🔐 Cybersecurity Engineering · 🌐 Network Engineering · 🤖 AI / Machine Learning
-
-Cybersecurity Engineering student with a strong interest in secure software development, enterprise networking, server infrastructure, and applied artificial intelligence. I enjoy building practical solutions that combine security, scalability, and modern technologies while continuously exploring new advancements in cybersecurity, networking, and machine learning.
+## 🧰 Arsenal
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&width=420&lines=Cybersecurity+Engineering;Network+Engineering;AI%2FML+Enthusiast" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,kotlin,java,ts,js,php,go,bash" alt="languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,cmake,git,postgres,mysql,supabase,firebase,pytorch,tensorflow,tailwind,nestjs" alt="tools" />
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=x0r909&label=Profile+Views&color=58A6FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/x0r909?style=for-the-badge&color=58A6FF" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square" alt="MikroTik" />
 </p>
 
-</td>
+## 🚀 Selected Work
 
-<td width="30%" align="center">
+| Project | What it is | Stack |
+|---|---|---|
+| **[openforensic-imager](https://github.com/x0r909/openforensic-imager)** | Forensically sound disk imaging — architecture, security model, and test strategy are specified up front | `Rust` `C/C++` `CMake` |
+| **[atlas](https://github.com/x0r909/atlas)** | Autonomous, agentic crypto trading system | `Python` `TypeScript` |
+| **[AetherOS](https://github.com/x0r909/AetherOS)** | Learning OS/kernel development from scratch — bootloader to userspace | `C` `Assembly` |
+| **[LinuxDev-Manager](https://github.com/x0r909/LinuxDev-Manager)** | Laragon-like local dev environment manager for Linux | `Python` |
+| **[SIMRS](https://github.com/x0r909/SIMRS)** | Hospital management information system | `TypeScript` |
 
-<img src="https://media.tenor.com/t2rKCEVovwkAAAAi/frieren-sousou-no-frieren.gif" width="200" alt="Frieren"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# 📝 About Me
-
-- 🔐 Passionate about cybersecurity, secure system design, and ethical hacking.
-- 🌐 Experienced in network engineering, Linux administration, and server infrastructure.
-- 💻 Full Stack Developer with experience building modern web applications and APIs.
-- 📱 Mobile developer focused on Android development using Kotlin and Jetpack Compose.
-- 🤖 Interested in Artificial Intelligence and Machine Learning for real-world applications.
-- ☁️ Continuously learning cloud computing, DevSecOps, and scalable architectures.
-- 📚 Always exploring new technologies and improving technical skills through hands-on projects and research.
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-![](https://skillicons.dev/icons?i=python,php,kotlin,java,js,ts,go,bash,linux,docker)
-
-### 🌐 Frameworks & Tools
-
-![](https://skillicons.dev/icons?i=laravel,nodejs,nextjs,nestjs,react,tailwind)
-
-### 🗄️ Databases & AI
-
-![](https://skillicons.dev/icons?i=mysql,postgresql,supabase,firebase,pytorch,tensorflow)
-
-### 🔒 Cybersecurity
-
-![](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge)
-
----
-
-# 📊 GitHub Statistics
+## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=x0r909&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0r909&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=x0r909&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x0r909&theme=tokyonight" alt="languages by repo" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=x0r909&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=x0r909&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
 </p>
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0r909&theme=tokyo-night&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x0r909/x0r909/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/x0r909/x0r909/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
----
+## 📫 Contact
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/x0r909/x0r909/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<p>
+  <a href="mailto:augie.aristitoazka@gmail.com"><img src="https://img.shields.io/badge/Gmail-augie.aristitoazka%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email augie.aristitoazka@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/augiearistito"><img src="https://img.shields.io/badge/LinkedIn-Augie_Aristito-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Augie Aristito" /></a>
+  <a href="https://github.com/x0r909"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
----
-
-# 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-x0r909-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x0r909)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Augie%20Aristito-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augiearistito)
-[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augie.aristitoazka@gmail.com)
-
----
-
-<div align="center">
-
-### ⭐ *"Build Secure. Learn Continuously. Innovate with Purpose."*
-
-</div>
+<p align="center"><em>Build secure. Learn continuously. Innovate with purpose.</em></p>
